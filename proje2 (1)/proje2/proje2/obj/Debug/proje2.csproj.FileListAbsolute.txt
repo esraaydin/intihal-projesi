@@ -1,0 +1,50 @@
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\abdul\Desktop\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\abdul\Desktop\usb\DERS\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\c#\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\FARUK_OKSUZ\Desktop\proje2 (1)\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\abdul\Desktop\Yeni klasör\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\ESRA AYDIN\Desktop\proje2\proje2 (1) (1)\proje2 (1)\proje2\proje2\obj\Debug\proje2.pdb
